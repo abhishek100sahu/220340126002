@@ -1,0 +1,11 @@
+1. IAM => user => add user
+2. Provide details => Attach existing policies
+3. Check AmazonEC2FullAccess ,Check AWSLambda_FullAccess 
+4. Generate console credentials 
+5. use custom password
+6. Login as account id (12 digit) which u can get in user details at root
+7. put your credentials & check if other services are running or not 
+8. if running than pop-up window shows not authorized
+
+From above steps we can create a IAM user give permissions of using the services,
+IAM user can only use those services which are provided by root user

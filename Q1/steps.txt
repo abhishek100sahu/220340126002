@@ -1,0 +1,10 @@
+1. login to http://demo.thingsboard.io/login
+2. Devices => Add new device => provide details
+3. select device => copy accewss token
+4. posting data using rest client(extention) in VScode
+5. POST https://demo.thingsboard.io/api/v1/<access token>/telemetry
+6. provide the json data
+7. .rest file is attached in this directory please refer that for analizing
+8. After receiving data at telemetary
+9. select device => Latest telemetary => select all data=> show on widget => select type => open dashboard
+10. Representation of data is open at dashboard => select your dashboard name => open dashboard

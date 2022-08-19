@@ -1,0 +1,10 @@
+POST https://demo.thingsboard.io/api/v1/xhIRyVbRpClvpsreHHIC/telemetry
+Content-Type: application/json
+
+{
+    "patient-name":"xyz",
+    "body-temprature":"34 *C",
+    "blood-pressure":"120 hg",
+    "weight":"162 lbs",
+    "region":"us-east"
+}
