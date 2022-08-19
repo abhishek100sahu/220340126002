@@ -1,0 +1,9 @@
+1. $ git clone https://github.com/abhishek100sahu/220340126002.git
+2. $ git init
+3. copy all the files inside
+4. $ git add .
+5. $ git status
+6. $ git commit -m "edge & cloud computing our last exam"
+7. $ git push
+8. Provide the credentials also generate token
+9. These will add all the file to the github repository
